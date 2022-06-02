@@ -1,2 +1,2 @@
 # wordlists
-wordlists for fun and total exodus :-D
+Wordlists for web and password brute-force
