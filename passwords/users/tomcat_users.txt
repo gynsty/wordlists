@@ -1,0 +1,4 @@
+admin
+manager
+both
+role1
